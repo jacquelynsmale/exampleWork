@@ -1,3 +1,4 @@
 # exampleWork 
-This is a Git repository to hold examples of my coding work.  
+This is a Git repository to hold example scripts from previous projects I have done. 
+
 
